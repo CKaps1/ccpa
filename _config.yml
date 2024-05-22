@@ -24,11 +24,11 @@ author: Christian Kapsales & Ramazan Rakhmatullin
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "About Us"
   Resources:
-    - Beautiful Jekyll: "https://dmoj.ca"
-    - Learn markdown: "https://codeforces.com"
-  Author's home: "ckaps1.github.io"
+    - Codeforces: "https://codeforces.com"
+    - CSES: "https://cses.fi"
+  Contact Us: 
 
 ################
 # --- Logo --- #
@@ -55,13 +55,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
   github: CKaps1
-  twitter: daattali
-  patreon: DeanAttali
   youtube: "@daattali"
-  whatsapp: 15551212
+  
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -104,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ccpa.ca"
+url-pretty: "cp-canada.ca"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

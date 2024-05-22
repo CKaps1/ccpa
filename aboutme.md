@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: We are students studying at the University of Waterloo with a passion for competitive programming. Our mission is to grow and improve the competitive programming scene in Canada.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Cool facts about us:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Ramazan's pull up record is larger than my age.
+- The amount of times I beat Ramazan in ping pong is larger than his age.
 
-What else do you need?
+Boom.
 
-### My story
+### Our story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you are curious enough about us you may checkout [my website](https://ckaps1.github.io) and [Ramazan's Codeforces](https://codeforces.com/profile/never_giveup) it will answer **all** your questions.
