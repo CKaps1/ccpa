@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /About Us
 title: About Us
 subtitle: We are students studying at the University of Waterloo with a passion for competitive programming. Our mission is to grow and improve the competitive programming scene in Canada.
 ---

@@ -11,7 +11,7 @@ author: Christian Kapsales
 ---
 
 {: .box-success}
-This is a demo post to show you how to start your journey in competitive programming.  I strongly encourage you to [take some time to learn one programming language](https://markdowntutorial.com/) - it'll teach you the basics of programming and logic.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+This is a demo post to show you how to start your journey in competitive programming.  I strongly encourage you to [take some time to learn one programming language](https://www.hackerrank.com/domains/cpp) - it'll teach you the basics of programming and logic.<br/>I also encourage you to look at the [the USACO guide](https://usaco.guide/bronze/) to learn some more tips about using the basics of a programming language for contests.
 
 **Here is some bold text**
 

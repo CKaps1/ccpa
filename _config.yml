@@ -24,11 +24,11 @@ author: Christian Kapsales & Ramazan Rakhmatullin
 ###############################################
 
 navbar-links:
-  About Us: "About Us"
+  About Us: /About Us
   Resources:
     - Codeforces: "https://codeforces.com"
     - CSES: "https://cses.fi"
-  Contact Us: 
+  Contact Us: /Contact Us
 
 ################
 # --- Logo --- #
