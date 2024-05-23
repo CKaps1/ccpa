@@ -17,7 +17,7 @@ url: "https://ckaps1.github.io" # the base hostname and protocol for your site
 title: Canadian Competitive Programming Association
 
 # Your name to show in the footer
-author: © 2024 Canadian Competitive Programming Association. All rights reserved.
+author: © Canadian Competitive Programming Association. All rights reserved.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "cp-canada.ca"
+# url-pretty: "cp-canada.ca"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
