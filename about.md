@@ -8,4 +8,4 @@ Canadian Competitive Programming Association(CCPA) emerged from an ICPC club at 
 
 Our mission is to grow and improve the competitive programming scene in Canada. Towards that goal, we plan to host regular competitions and publish practice resources for new and experienced participants.
 
-We are always happy to collaborate towards our goal. Feel free to [contact us](/ccpa/contact)!
+We are always happy to collaborate towards our goal. Feel free to [contact us](/contact)!
