@@ -8,6 +8,7 @@ gem 'tzinfo-data'
 gem 'csv'
 gem 'base64'
 gem 'bigdecimal'
+gem 'jekyll-seo-tag'
 
 gemspec
 
