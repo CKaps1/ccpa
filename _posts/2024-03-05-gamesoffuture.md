@@ -13,6 +13,6 @@ The competition took place in two rounds, each lasting 5 hours. During this time
 
 Fedor Romashov became the champion of the Games of the Future in the discipline of "sport programming." Fedor was the only one who scored 22 points. In each of the rounds, he failed to solve only the last, deemed by the jury as the most difficult, task. Romashov will receive $51,000 for winning the Games of the Future.
 
-| ![](/assets/img/fedor.jpg) |
+| ![](/assets/img/gof_winner.jpg) |
 | :--: |
 | Fedor Romashov, winner of the first Games of Future in competitive programming |
