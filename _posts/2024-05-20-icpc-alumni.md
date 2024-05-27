@@ -3,7 +3,7 @@ layout: post
 title: ICPC Alumni Meet-Up in Silicon Valley
 ---
 
-![ICPC](https://codeforces.com/predownloaded/39/e9/39e90499fcf5d26b1c8de0605df9503fe21f5751.png)
+![ICPC](/assets/img/meetup.png)
 
 Silkroad Innovation Hub and the Kazakhstan Competitive Programming Federation are going to host ICPC Alumni Meet-Up in Silicon Valley on Tuesday, June 4, 2024. This type of events are ideal for making great connections, as well as having fun discussing recent news about new and ongoing startups in the Bay Area. The event is tied to the 2024 ICPC International Collegiate Programming Contest World Finals that will take place in Astana, Kazakhstan this September.
 
